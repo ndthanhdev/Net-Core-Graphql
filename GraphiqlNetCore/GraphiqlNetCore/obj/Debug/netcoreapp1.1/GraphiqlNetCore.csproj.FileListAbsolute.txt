@@ -1,0 +1,9 @@
+C:\Users\duyth\Desktop\GraphiqlNetCore\GraphiqlNetCore\bin\Debug\netcoreapp1.1\GraphiqlNetCore.deps.json
+C:\Users\duyth\Desktop\GraphiqlNetCore\GraphiqlNetCore\bin\Debug\netcoreapp1.1\GraphiqlNetCore.runtimeconfig.json
+C:\Users\duyth\Desktop\GraphiqlNetCore\GraphiqlNetCore\bin\Debug\netcoreapp1.1\GraphiqlNetCore.runtimeconfig.dev.json
+C:\Users\duyth\Desktop\GraphiqlNetCore\GraphiqlNetCore\bin\Debug\netcoreapp1.1\GraphiqlNetCore.dll
+C:\Users\duyth\Desktop\GraphiqlNetCore\GraphiqlNetCore\obj\Debug\netcoreapp1.1\GraphiqlNetCore.csprojResolveAssemblyReference.cache
+C:\Users\duyth\Desktop\GraphiqlNetCore\GraphiqlNetCore\obj\Debug\netcoreapp1.1\GraphiqlNetCore.AssemblyInfo.cs
+C:\Users\duyth\Desktop\GraphiqlNetCore\GraphiqlNetCore\bin\Debug\netcoreapp1.1\GraphiqlNetCore.pdb
+C:\Users\duyth\Desktop\GraphiqlNetCore\GraphiqlNetCore\obj\Debug\netcoreapp1.1\GraphiqlNetCore.dll
+C:\Users\duyth\Desktop\GraphiqlNetCore\GraphiqlNetCore\obj\Debug\netcoreapp1.1\GraphiqlNetCore.pdb
